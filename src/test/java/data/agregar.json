@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "username": '#(new_user)',
+  "firstName": "string",
+  "lastName": "string",
+  "email": "string",
+  "password": "string",
+  "phone": "string",
+  "userStatus": '#(status_ini)'
+}
